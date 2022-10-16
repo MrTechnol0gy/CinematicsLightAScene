@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2096695207}
   - component: {fileID: 2096695208}
   m_Layer: 0
-  m_Name: Point Light
+  m_Name: Spot Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -105,7 +105,7 @@ GameObject:
   - component: {fileID: 7633719302318594334}
   - component: {fileID: 5400727191373684818}
   m_Layer: 0
-  m_Name: Point Light (2)
+  m_Name: Spot Light 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -199,7 +199,7 @@ GameObject:
   - component: {fileID: 7916952293026274340}
   - component: {fileID: 554887890065826203}
   m_Layer: 0
-  m_Name: Point Light (1)
+  m_Name: Spot Light 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
